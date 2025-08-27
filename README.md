@@ -22,7 +22,13 @@
 
 ## Installazione
 
-1. Clona il repository:
+Puoi installare la CLI globalmente tramite npm:
+
+```bash
+npm install -g privacy-check
+```
+
+Oppure, Clona il repository:
 
 ```bash
 git clone https://github.com/tuo-username/privacy-check.git
@@ -65,7 +71,7 @@ privacy-check https://sito1.com https://sito2.com https://sito3.com
 
 I file JSON generati si troveranno in:
 
-results/<hostname>/<titolo-pagina>/
+src/results/<hostname>/<titolo-pagina>/
 
 Scopo del progetto
 L'idea principale è mostrare il percorso tecnico di sviluppo di un analizzatore privacy. Serve a sviluppatori, aziende e avvocati per capire:
@@ -82,6 +88,6 @@ Licenza
 MIT License – puoi usare il codice come esempio, ma non garantiamo funzionalità complete né supporto legale per analisi privacy.
 
 Note sulla sicurezza e copia
-Alcune funzionalità avanzate non sono incluse per proteggere l’idea.
+Alcune funzionalità avanzate non sono incluse per proteggere l’idea. Chiunque può contribuire o ispirarsi al progetto, ma la versione completa con report dettagliati rimane privata fino al rilascio futuro.
 
 Chiunque può contribuire o ispirarsi al progetto, ma la versione completa con report dettagliati rimane privata fino al rilascio futuro.

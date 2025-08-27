@@ -1,17 +1,17 @@
 [
   {
     "name": "CookieId",
-    "value": "eecb4d88-7bcd-4b39-a902-a10ec7aedcfc",
+    "value": "0f73177b-163e-4e2f-b030-eff6b66a0e5a",
     "domain": "www.smeaitalia.it",
     "path": "/",
-    "expires": 1756717990.051803,
+    "expires": 1756722819.416688,
     "httpOnly": false,
     "secure": true,
     "sameSite": "Lax"
   },
   {
     "name": ".AspNetCore.Antiforgery.917zq3YbSdM",
-    "value": "CfDJ8Oh7Fl82FtJEnIb18P6yLt8h9SLd8LSjR2RFxcVxJK59jCPB1KzpWeOukUZ-Nk2flq19vleguOuAl0_INxAm1qdsu-CQbaeyn7vR7PpHlJXLGQV6nXcaQsiwlNnsxUnt-YkpnaG5-egYRv0O8Tm27Rs",
+    "value": "CfDJ8Oh7Fl82FtJEnIb18P6yLt9TdJ825kQOQbuwWGfO--22ofo-y5e15PHUBnKCAo7cz9pwBN-Uy2cGOmvnzfKcN9CvZ9LYu9Mc2cIfYE6CXkDdiR_cF8_Qb-g5E2red6qZCvjb6lrTgZaA0rR4XaYrTMQ",
     "domain": "www.smeaitalia.it",
     "path": "/",
     "expires": -1,
