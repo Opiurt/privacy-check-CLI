@@ -1,0 +1,12 @@
+{
+  "name": "privacy-check",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "privacy-check": "./bin/privacy-check.js"
+  },
+  "dependencies": {
+    "open": "^10.2.0",
+    "playwright": "^1.48.0"
+  }
+}

@@ -1,0 +1,278 @@
+[
+  {
+    "url": "https://www.smeaitalia.it/",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonticons/arjanna-icons.min.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonticons/arjanna-cms.min.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/css/choices.min.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/css/simplebar.min.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/css/theme.min.css?ver=22",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/css/swiper-bundle.min.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/header/smea-logo.png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/header/agcm-logo.png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/header/smea-rating.png",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/backgrounds/copertina0.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/PCM.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/PC.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/MinisteroInterno.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/MinisteroDifesa.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Carabinieri.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Vigili_del_Fuoco.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/EsercitoItaliano.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/AereonauticaMilitare.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Ginevra.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/LaSapienza.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Unicredit.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Lexus.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/LeroyMerlin.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/italianacostruzioni.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Investire.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Sac.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Gruppo_ECF.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Enerpetroli.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/home_azienda.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Assa-abloy.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/wurth.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Shuko.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/kerakoll.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Mapei.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/secco.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/mogs.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/india.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/grisser.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/faraone.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/footer/smea-footer.png",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/master/images/logo-arjannacms.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/_framework/blazor.web.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/choices.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/cleave.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/js/page-behavior.min.js?ver=2025.6.1",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/simplebar.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/fslightbox.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/autocomplete-blazor.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/js/htmx204.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/js/htmx-blazor.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/patternsmea.png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonts/rubik-v28-latin-500.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonts/rubik-v28-latin-600.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonts/rubik-v28-latin-700.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonts/rubik-v28-latin-regular.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonticons/arjanna-icons.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/backgrounds/Copertina1.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/backgrounds/Copertina2.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/img_480x360/ebe7d85db6704569923434aa9e4c5eeaLiz8oxM4FLk.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/img_480x360/1b3750c0bc024f93bd9c64efa80c6290SmeaItaliaTG3.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/img_480x360/cf29087234b849beb6218113c1a473a63MqAgGRd-OU.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/img_480x360/e6a20890248547f6869278a186d5e0b5Filmato.webp",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/swiper-bundle.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/_content/BlazorJSComponents/BlazorJSComponents.bcdqxdgmpp.lib.module.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.smeaitalia.it/_content/BlazorPageScript/BlazorPageScript.sqfxr5aje6.lib.module.js",
+    "method": "GET"
+  }
+]

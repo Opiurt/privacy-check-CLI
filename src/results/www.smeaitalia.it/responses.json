@@ -1,0 +1,468 @@
+[
+  {
+    "url": "https://www.smeaitalia.it/",
+    "status": 200,
+    "headers": {
+      "blazor-enhanced-nav": "allow",
+      "cache-control": "no-cache, no-store",
+      "content-encoding": "gzip",
+      "content-security-policy": "frame-ancestors 'self'",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "pragma": "no-cache",
+      "server": "Microsoft-IIS/10.0",
+      "strict-transport-security": "max-age=2592000",
+      "vary": "Accept-Encoding",
+      "x-frame-options": "SAMEORIGIN",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonticons/arjanna-icons.min.css",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "2041",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/css/simplebar.min.css",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "752",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/fonticons/arjanna-cms.min.css",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "blazor-enhanced-nav": "allow",
+      "content-security-policy": "frame-ancestors 'self'",
+      "cache-control": "no-cache, no-store",
+      "content-encoding": "gzip",
+      "pragma": "no-cache",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/html; charset=utf-8",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/css/choices.min.css",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "1620",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/css/swiper-bundle.min.css",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "4176",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/dist/css/theme.min.css?ver=22",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "45468",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/css",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/js/page-behavior.min.js?ver=2025.6.1",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "2971",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/header/smea-logo.png",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "etag": "\"1dbc66faf2a6f5c\"",
+      "accept-ranges": "bytes",
+      "content-length": "24924",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/png",
+      "last-modified": "Fri, 16 May 2025 14:34:52 GMT",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/header/agcm-logo.png",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "etag": "\"1dbc66faf2a3d06\"",
+      "accept-ranges": "bytes",
+      "content-length": "13062",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/png",
+      "last-modified": "Fri, 16 May 2025 14:34:52 GMT",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/header/smea-rating.png",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "etag": "\"1dbc66faf2a1dba\"",
+      "accept-ranges": "bytes",
+      "content-length": "5050",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/png",
+      "last-modified": "Fri, 16 May 2025 14:34:52 GMT",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js",
+    "status": 200,
+    "headers": {
+      "access-control-expose-headers": "*",
+      "content-encoding": "br",
+      "cf-cache-status": "HIT",
+      "etag": "W/\"5ae9-1uPP8Sj3nBuFOtKQ44sSj//twvY\"",
+      "age": "1999927",
+      "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Kb1zWNy9J8mT2XjMqk2A%2FCxcyF0s6mN7Y8FuCVaZh6XFJscPxNn7MkYJefb%2B6RVMdVcQ8EmtzMnztfsVVQPEocI1DauO%2Fbx7x7p2PjKkovF2F1AcSOLXwDHUrhsEnUdi4Ak%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "x-content-type-options": "nosniff",
+      "x-jsd-version-type": "version",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-cache": "HIT, HIT",
+      "date": "Wed, 27 Aug 2025 09:13:10 GMT",
+      "content-type": "application/javascript; charset=utf-8",
+      "x-served-by": "cache-fra-etou8220173-FRA, cache-lga21951-LGA",
+      "vary": "Accept-Encoding",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "cache-control": "public, max-age=31536000, s-maxage=31536000, immutable",
+      "timing-allow-origin": "*",
+      "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "cross-origin-resource-policy": "cross-origin",
+      "cf-ray": "975a738ddca26130-FCO",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "9661",
+      "server": "cloudflare",
+      "x-jsd-version": "3.0.1"
+    }
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css",
+    "status": 200,
+    "headers": {
+      "access-control-expose-headers": "*",
+      "content-encoding": "br",
+      "cf-cache-status": "HIT",
+      "etag": "W/\"7dcf-yCJw48dW3/w69banJQYABRxtQxE\"",
+      "age": "1999614",
+      "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=kQDR9MbGTn3f%2FRqr38Ngfj4r6m1TMFiDMpGJIAGxPZHyIw1tLz0YLoPvXcnPZb3lHwvw7ConCooWeiHkNnx%2F%2Fft6ONcGoFipl2NyZGZLFhHdug5HitpUbzwLqkhKL0fwHx8%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "x-content-type-options": "nosniff",
+      "x-jsd-version-type": "version",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-cache": "HIT, HIT",
+      "date": "Wed, 27 Aug 2025 09:13:10 GMT",
+      "content-type": "text/css; charset=utf-8",
+      "x-served-by": "cache-fra-eddf8230161-FRA, cache-lga21966-LGA",
+      "vary": "Accept-Encoding",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "cache-control": "public, max-age=31536000, s-maxage=31536000, immutable",
+      "timing-allow-origin": "*",
+      "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "cross-origin-resource-policy": "cross-origin",
+      "cf-ray": "975a738ddca06130-FCO",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "5100",
+      "server": "cloudflare",
+      "x-jsd-version": "3.0.1"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/assets/smeaitalia/img/footer/smea-footer.png",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "etag": "\"1dbc66fadf8f251\"",
+      "accept-ranges": "bytes",
+      "content-length": "4945",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/png",
+      "last-modified": "Fri, 16 May 2025 14:34:50 GMT",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/Carabinieri.webp",
+    "status": 200,
+    "headers": {
+      "cache-control": "max-age=31536000",
+      "etag": "\"3eabdf74ec6db1:0\"",
+      "accept-ranges": "bytes",
+      "content-length": "8028",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/webp",
+      "last-modified": "Fri, 16 May 2025 10:40:40 GMT",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/PC.webp",
+    "status": 200,
+    "headers": {
+      "cache-control": "max-age=31536000",
+      "etag": "\"b35b7ac94ec6db1:0\"",
+      "accept-ranges": "bytes",
+      "content-length": "9224",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/webp",
+      "last-modified": "Fri, 16 May 2025 10:39:22 GMT",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
+    "status": 200,
+    "headers": {
+      "access-control-expose-headers": "*",
+      "content-encoding": "br",
+      "cf-cache-status": "HIT",
+      "etag": "W/\"13b51-3cbp6tbRaukjc5nOQejBYgzFnDY\"",
+      "age": "2010672",
+      "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=6XeexwlrixPi%2F3sxzYCCWALuSBPv0G0i49yJ6qZmuTNCvNwKrkHCzcSugJca7F2lsGx8Oo7oqXXNm%2F48Ko9ycFFvygP8c4kf188B62lN6b1PAEFnsavFZBn7yXB7YXwzQF4%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "x-content-type-options": "nosniff",
+      "x-jsd-version-type": "version",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-cache": "HIT, HIT",
+      "date": "Wed, 27 Aug 2025 09:13:10 GMT",
+      "content-type": "application/javascript; charset=utf-8",
+      "x-served-by": "cache-fra-eddf8230062-FRA, cache-lga21993-LGA",
+      "vary": "Accept-Encoding",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "cache-control": "public, max-age=31536000, s-maxage=31536000, immutable",
+      "timing-allow-origin": "*",
+      "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "cross-origin-resource-policy": "cross-origin",
+      "cf-ray": "975a738ddca46130-FCO",
+      "accept-ranges": "bytes",
+      "access-control-allow-origin": "*",
+      "content-length": "22790",
+      "server": "cloudflare",
+      "x-jsd-version": "5.3.3"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/choices.min.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "17825",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/cleave.min.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "5637",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/simplebar.min.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "6303",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/fslightbox.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "13872",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/js/htmx-blazor.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "137",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/plugins/js/autocomplete-blazor.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "376",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/js/htmx204.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "content-encoding": "br",
+      "content-length": "14802",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "application/javascript",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://www.smeaitalia.it/_framework/blazor.web.js",
+    "status": 200,
+    "headers": {
+      "strict-transport-security": "max-age=2592000",
+      "cache-control": "no-cache",
+      "content-encoding": "br",
+      "etag": "\"1dbd088cf501b01\"",
+      "accept-ranges": "bytes",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "text/javascript",
+      "last-modified": "Thu, 29 May 2025 10:59:55 GMT",
+      "vary": "Accept-Encoding",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/MinisteroInterno.webp",
+    "status": 200,
+    "headers": {
+      "cache-control": "max-age=31536000",
+      "etag": "\"f1b28d84ec6db1:0\"",
+      "accept-ranges": "bytes",
+      "content-length": "5700",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/webp",
+      "last-modified": "Fri, 16 May 2025 10:39:47 GMT",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/contents/PCM.webp",
+    "status": 200,
+    "headers": {
+      "cache-control": "max-age=31536000",
+      "etag": "\"e6ddd8ba4ec6db1:0\"",
+      "accept-ranges": "bytes",
+      "content-length": "11960",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/webp",
+      "last-modified": "Fri, 16 May 2025 10:38:58 GMT",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  },
+  {
+    "url": "https://storage.arjannacms.com/smea/images/backgrounds/copertina0.webp",
+    "status": 200,
+    "headers": {
+      "cache-control": "max-age=31536000",
+      "etag": "\"bdedf64dabc4db1:0\"",
+      "accept-ranges": "bytes",
+      "content-length": "403354",
+      "date": "Wed, 27 Aug 2025 09:13:09 GMT",
+      "content-type": "image/webp",
+      "last-modified": "Wed, 14 May 2025 08:36:36 GMT",
+      "server": "Microsoft-IIS/10.0",
+      "x-powered-by": "ASP.NET"
+    }
+  }
+]
